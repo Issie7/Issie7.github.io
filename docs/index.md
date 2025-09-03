@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 首页
+title: 主页
 ---
 
 # 欢迎来到我的博客
