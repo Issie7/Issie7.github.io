@@ -3,3 +3,5 @@ description: 我是一个 DevOps 和 网络安全领域的专家
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-remote-theme
+show_downloads: true # 是否展示下载
+google_analytics: true # 谷歌分析开启
