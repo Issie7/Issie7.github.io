@@ -1,4 +1,5 @@
-theme: jekyll-theme-architect
+theme: jekyll-remote-theme
+remote_theme: architect
 title: Issie 的个人博客
 description: 我是一个 DevOps 和 网络安全领域的专家
 lsi: false
